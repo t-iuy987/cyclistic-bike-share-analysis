@@ -287,16 +287,16 @@ ORDER BY
 I used Tableau for creating the visualizations that support my findings. I uploaded all the csv files to Tableau and then I used union feature to unite all data files into one main data source.
 
 The peak months for casual riders are July, August and September.
-![](casual_vs_member_over_months.png)
+![](images/casual_vs_member_over_months.png)
 
 
  
 The busiest day for casual riders is Saturday, and Wednesday for members.
-![](rides_of_riders_over_weekdays.png)
+![](images/rides_of_riders_over_weekdays.png)
 
 
 Let's look at the top stations used by casual riders.
-![](casual_start_stations_top10.png) ![](casual_end_station_top10.png)
+![](images/casual_start_stations_top10.png) ![](images/casual_end_station_top10.png)
 >Top 3 stations are:
 >* Streeter Dr & Grand Ave
 >* DuSable Lake Shore Dr & Monroe St
@@ -304,7 +304,7 @@ Let's look at the top stations used by casual riders.
 
 What about which bike type frequently used by our casual riders?
 
-![](ride_types_quarters.png)
+![](images/ride_types_quarters.png)
 
 >So, electric bike it is.
 
