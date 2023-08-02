@@ -180,9 +180,6 @@ GROUP BY
 	yd.member_casual,  weekday
 ORDER BY
 	yd.member_casual, number_of_rides DESC
-/*CONCLUSION: 
- * 			 Yes, Saturday is the busiest for casual riders and the rides are also the longest on this day, on average.
- * */
 ```
 **RESULT**
 |type|weekday|number_of_rides|avg_ride_length|
